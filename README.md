@@ -1,7 +1,9 @@
 
-# Twitter Clone
+# Installation
 
-To run the program type npm start on the terminal.
-
+Install NodeJS
+Setup NPM
+Install MongoDB Compass
+Type npm start on the terminal
 
 
